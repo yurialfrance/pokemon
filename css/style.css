@@ -404,6 +404,7 @@ section.gallery .gallery-container a img{
     padding-left: 0px;
   }
   
+
   
   .name {
     font-size: 18px;
@@ -689,7 +690,7 @@ section.gallery .gallery-container a img{
     width: 100%;
     height: 400px;
     position: relative;
-    background: url('/dist/img/photo_6219783458826335134_y.jpg') no-repeat center center/cover;
+    background: url('https://scontent.fmnl3-4.fna.fbcdn.net/v/t1.15752-9/329842988_511385527818354_30997160289775275_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGPz-t-kkLOqezqvDEd-MkJGPxGIu2zE6cY_EYi7bMTp3zBb-n9AKcmiHSdRMmWBTRJlmca5YIK53IDkt8P-N6Q&_nc_ohc=rrwXDhtwq-YAX-2Ng-B&_nc_ht=scontent.fmnl3-4.fna&oh=03_AdTmATI3ihB5D0teZhrNS8R7I3y_MFiZDfuTz_cXEjJ_ig&oe=640A2279') no-repeat center center/cover;
   }
   
   .news-letter::after{
