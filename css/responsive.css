@@ -69,6 +69,7 @@
         position: relative;
         background: url(../img/photo_6201780210051953599_y.jpg) no-repeat top center/cover;
         height: 205px;
+        margin-bottom: 30px;
     }
     .about-section-inner h3{
         font-size: 1rem;
@@ -85,11 +86,7 @@
         line-height: 1rem;
         text-align: center;
     }
-    .vid{
-        margin-top: 20px;
-        width: 340px;
-        height: 250px;
-    }
+   
 
     .responsive-container-block {
         min-height: 75px;
@@ -152,9 +149,6 @@
       }
 
       
-
- 
-
     
 
 }
